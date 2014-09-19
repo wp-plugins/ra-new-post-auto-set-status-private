@@ -1,9 +1,9 @@
 === RA - New Post Auto Set Status "Private" ===
-Contributors: Rasin (skuraomoto)
+Contributors: skuramoto
 Tags: rains, PostStatus, Default, Private, Publish, Japanese
 Requires at least: 4.0
 Tested up to: 4.0
-Stable tag: 1.0.0
+Stable tag: 1.0.2
 
 The status of the post exhibited directly from new post is compulsorily changed into "private".
 
@@ -15,6 +15,12 @@ The status of the post exhibited directly from new post is compulsorily changed 
 2. Activate the plugin through the Plugins menu in WordPress.
 
 == Changelog ==
+
+= 1.0.2 =
+* Version Number fix.
+
+= 1.0.1 =
+* Contributors name fix.
 
 = 1.0.0 =
 * Registration to the plug-in directory.
