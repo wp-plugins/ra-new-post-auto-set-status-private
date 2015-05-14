@@ -4,7 +4,7 @@ Plugin Name: RA - New Post Auto Set Status "Private"
 Description: The status of the post exhibited directly from new post is compulsorily changed into "private".
 Author: Rasin (skuraomoto)
 Author URI: http://www.rains.jp/
-Version: 1.0.2
+Version: 1.0.3
 License: GPLv2
 Text Domain: rains-npassp
 Domain Path: /languages/
